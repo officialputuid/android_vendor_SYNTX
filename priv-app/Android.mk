@@ -3,7 +3,7 @@ LOCAL_PATH := $(call my-dir)
 # SYNTX-ID
 include $(CLEAR_VARS)
 LOCAL_MODULE := SYNTX-ID
-LOCAL_SRC_FILES := syntx-v1.0-beta.apk
+LOCAL_SRC_FILES := syntx-v1.1-stable-release.apk
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_MODULE_CLASS := APPS
 LOCAL_SYSTEM_EXT_MODULE := true

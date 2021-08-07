@@ -3,7 +3,7 @@ My custom app for displaying my informations
 
 # Detail
 ```
-Version: v1.0-beta
+Version: v1.1-stable-release
 Name: SYNTX let's syntax
 Package: com.officialputuid.syntxid
 Information: About, Sources, Blog, Donate, My Socmed, Ads
